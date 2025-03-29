@@ -58,3 +58,8 @@ Update the .env file with your database and application settings.
    php artisan serve
 
 Visit http://127.0.0.1:8000 in your browser.
+
+8. Login with below credentials
+ ```bash
+    Email : admin@admin.com
+    password : password
