@@ -2,8 +2,6 @@
 
 use Illuminate\Support\Facades\Route;
 
-// User Authentication Routes
-Auth::routes();
 
 // Home Route
 Route::redirect('/', '/posts');
